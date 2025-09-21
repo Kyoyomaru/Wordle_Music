@@ -1,2 +1,11 @@
-#aqui se trabajara la principal parte, clases,etc
+class Letra:
+    pass
 
+class Cancion:
+    pass
+
+class Jugador:
+    pass
+
+class WordleMusic:
+    pass
