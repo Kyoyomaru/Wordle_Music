@@ -19,5 +19,5 @@ Es una manera Unica de ejercitar la mente y disfrutar de un nuevo juego . Es ide
 a su vez ayudara a expandir nuevas fronteras en lo que conlleva el gusto musical individual, quien lo sabe, tal vez en nuestro wordle puedas abrirte  a un nuevo mundo de gustos musicales.
 
 
-El proyecto es mantenido por ~~_**"aqui va el grupo de trabajo"**_~~. Estamos abiertos a contribuciones,opiniones y criticas de la comunidad.  
+El proyecto es mantenido por **Jhoan Alexis David, Juan Andres Hoyos** y **Miguel Angel Zuluaga** . Estamos abiertos a contribuciones,opiniones y criticas de la comunidad.  
 Todas las contribuciones son bienvenidas y apreciadas.
