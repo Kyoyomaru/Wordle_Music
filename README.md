@@ -5,7 +5,9 @@ Esto surge con la idea de crear un nuevo juego unico para nuestro proyecto de PO
 tales como por ejemplo
 * Implementacion de musica cuando se acierte en alguna palabra
 * Y esto a su vez estara acompañada de cierta parte de la cancion que funcionara como "Pista" para poder terminar de completar la palabra
-* Cuando completes toda la cancion se reproducira la cancion completa y un link que te llevara a la cancion en yt.
+* Cuando completes toda la cancion se reproducira la cancion completa y un link que te llevara a la canion en yt.
+* 
+* "Aqui necesitamos poner mas ideas/caracteristicas para poder ampliarnos mas, por ahora tenemos esas 3"
 
 
 
@@ -18,6 +20,4 @@ a su vez ayudara a expandir nuevas fronteras en lo que conlleva el gusto musical
 
 
 El proyecto es mantenido por **Jhoan Alexis David, Juan Andres Hoyos** y **Miguel Angel Zuluaga** . Estamos abiertos a contribuciones,opiniones y criticas de la comunidad.  
-
 Todas las contribuciones son bienvenidas y apreciadas.
-
