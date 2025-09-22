@@ -18,8 +18,8 @@ class Letra:
 
     def __str__(self):
         if self.estado == "posicion correcta":
-            return f"[{self.caracter}]"
-
+            return "[{self.caracter}]"
+    pass
 
 
 class Cancion:
