@@ -10,6 +10,9 @@ class Letra:
         self.posicion: int = posicion
         self.estado: str = "oculta"  # "correcta", "contenida", "incorrecta"
 
+    def marcar_letra(self, estado: str) -> None:
+        self.estado = estado
+
 
 
 class Cancion:
