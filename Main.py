@@ -13,6 +13,9 @@ class Letra:
     def marcar_letra(self, estado: str) -> None:
         self.estado = estado
 
+    def __repr__(self):
+        return f"Letra('{self.caracter}', pos={self.posicion}, estado={self.estado})"
+
 
 
 class Cancion:
