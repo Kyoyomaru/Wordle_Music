@@ -5,25 +5,18 @@ from pydub.playback import play
 
 
 class Letra:
-    def __init__(self,caracter:str):
-        self.caracter=
-        caracter.upper()
-        self.estado= "indefinido"
-    def marcar_posicion_correcta(self):
-        self.estado= "posicion correcta"
-    def marcar_posicion_incorrecta(self):
-        self.estado= "Posicion Incorrecta"
-    def marcar_no_palabra(self):
-        self.estado= "No en la palabra"
+    def __init__(self, caracter: str, posicion: int):
+        self.caracter: str = caracter.upper()
+        self.posicion: int = posicion
+        self.estado: str = "oculta"  # "correcta", "contenida", "incorrecta"
 
-    def __str__(self):
-        if self.estado == "posicion correcta":
-            return "[{self.caracter}]"
-    pass
 
 
 class Cancion:
-    pass
+    def __init__(self,titulo: str, fragmentos_audio: dict[int,str]):
+        self.titulo: str = titulo
+        self.fragmentos_audio: dict[int,str] = fragmentos_audio
+
 
 class Jugador:
     pass
